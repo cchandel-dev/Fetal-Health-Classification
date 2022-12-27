@@ -12,7 +12,7 @@ Steps to use this program are shown below.
 
 
 Description of the selected forecasting problem: Using data on fetal health the goal is to forecast the health of the given fetus into three categories;
-normal, suspect, or pathological. This is a classic classification problem where data is used to group the output into types as opposed to regression 
+normal(1), suspect(2), or pathological(3). This is a classic classification problem where data is used to group the output into types as opposed to regression 
 where a numerical value(s) is/are calculated.
 
 Description of the available data: There are 21 attributes which can be used to forecast the output which is the 22nd field. 
