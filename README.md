@@ -25,4 +25,5 @@ This 80/20 split will apply to both cross-validation and hold-out as shown later
 
 
 The classification report is shown below
+
 ![classification repot](https://github.com/cchandel-dev/Fetal-Health-Classifier/blob/main/classification%20report.png)
