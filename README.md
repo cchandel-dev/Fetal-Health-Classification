@@ -23,4 +23,6 @@ There is no missing data in the dataset. Every attribute and typically 80% of th
 The model will be tested using typically 20% of the samples and every attribute except the output (text_X) and compared to the true output (test_Y). 
 This 80/20 split will apply to both cross-validation and hold-out as shown later on in this report.
 
+
+The classification report is shown below
 ![classification repot](https://github.com/cchandel-dev/Fetal-Health-Classifier/blob/main/classification%20report.png)
