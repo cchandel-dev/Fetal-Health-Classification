@@ -1,4 +1,4 @@
-# Fetal_Health_Classification
+# Fetal Health Classification
 Using various Machine Learning models and amalgamating them into an Ensemble Learning model to classify fetal health and evaluate the results. 
 The following algorithms were used; Random Forest, Decision Tree, KNN, SVM, Naive Bayes.
 
